@@ -16,6 +16,9 @@ Intended to follow Spec Driven Design (`/spec` and `/spec-impl` workflow) via th
 - React 19.2, TypeScript (strict), Tailwind CSS v4 (via `@tailwindcss/postcss`, no `tailwind.config` file — v4 uses CSS-based config in `app/globals.css`).
 - Path alias `@/*` maps to repo root (`tsconfig.json`).
 
+## Skills 
+- Usa siempre /frontend-design para diseñar la interfaz de usuario.
+
 ## Commands
 
 ```bash

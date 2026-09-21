@@ -1,6 +1,6 @@
 # 02 — Acerca de + formulario de contacto (Resend)
 
-**Estado:** Aprovado
+**Estado:** Implementado
 **Depende de:** 01
 **Fecha:** 2026-09-21
 
